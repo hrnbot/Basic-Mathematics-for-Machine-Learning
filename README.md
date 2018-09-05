@@ -28,7 +28,7 @@ A colleague, Skyler Speakman, recently said that “Linear Algebra is the mathem
 Machine Learning and Statistics aren’t very different fields. Actually, someone recently defined Machine Learning as ‘doing statistics on a Mac’. Some of the fundamental Statistical and Probability Theory needed for ML are Combinatorics, Probability Rules & Axioms, Bayes’ Theorem, Random Variables, Variance and Expectation, Conditional and Joint Distributions, Standard Distributions (Bernoulli, Binomial, Multinomial, Uniform and Gaussian), Moment Generating Functions, Maximum Likelihood Estimation (MLE), Prior and Posterior, Maximum a Posteriori Estimation (MAP) and Sampling Methods.
 
 # Multivariate Calculus: 
-Some of the necessary topics include Differential and Integral Calculus, Partial Derivatives, Vector-Values Functions, Directional Gradient, Hessian, Jacobian, Laplacian and Lagragian Distribution.
+Some of the necessary topics include Differential and Integral Calculus, Partial Derivatives, Vector-Values Functions, Directional Gradient, Hessian, Jacobian, Laplacian and Lagrangian Distribution.
 
 # Algorithms and Complex Optimizations:
 This is important for understanding the computational efficiency and scalability of our Machine Learning Algorithm and for exploiting sparsity in our datasets. Knowledge of data structures (Binary Trees, Hashing, Heap, Stack etc), Dynamic Programming, Randomized & Sublinear Algorithm, Graphs, Gradient/Stochastic Descents and Primal-Dual methods are needed.
