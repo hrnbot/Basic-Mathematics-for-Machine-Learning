@@ -3,7 +3,7 @@ The motive behind Creating this repo is to feel the fear of mathematics and do w
 
 In this Repo I Demonstrated Basics of **Algebra, Calculus ,Statistics and Probability.** So, try this Code in your python notebook which is provided in edx Course.
 
-In this Repo you are also learn the Libraries which are essential like **numpy, pandas, matplotlib...**
+In this Repo you will also learn the Libraries which are essential like **numpy, pandas, matplotlib...**
 
 I am going to upload new material when i find those material useful, you can also help me in keeping this repo fresh.
 
