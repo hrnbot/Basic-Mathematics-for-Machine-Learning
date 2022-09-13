@@ -36,4 +36,8 @@ This is important for understanding the computational efficiency and scalability
 # Others: 
 This comprises of other Math topics not covered in the four major areas described above. They include Real and Complex Analysis (Sets and Sequences, Topology, Metric Spaces, Single-Valued and Continuous Functions, Limits, Cauchy Kernel, Fourier Transforms), Information Theory (Entropy, Information Gain), Function Spaces and Manifolds.
 
+<html>
+<body>
 <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="hrnbot" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+  </body>
+  </html>
